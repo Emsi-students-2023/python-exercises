@@ -9,7 +9,7 @@ Solutions des exercices Python.
 
 ## Remarques
 Pour obtenir un bonus, vous devez :
-1. Envoyer une demande pour devenir contributeur.
+1. Envoyer une demande pour devenir contributeur : créer un problème (issue).
 2. Créer une branche Git.
 3. Modifier l'un des deux fichiers Jupyter Notebook en ajoutant la solution directement après l'énoncé (créer une cellule).
 4. Créer un Pull request.
