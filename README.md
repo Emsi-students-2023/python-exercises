@@ -27,13 +27,13 @@ Pour obtenir un bonus, vous devez :
 - [ ] Exercice 8
 
 #### Fonctions
-- [ ] Exercice 1
-- [ ] Exercice 2
-- [ ] Exercice 3
-- [ ] Exercice 4
-- [ ] Exercice 5
-- [ ] Exercice 6
-- [ ] Exercice 7
+- [ ] Exercice 1 est attribué à [nin-oh](https://github.com/nin-oh)
+- [ ] Exercice 2 est attribué à [nin-oh](https://github.com/nin-oh)
+- [ ] Exercice 3 est attribué à [nin-oh](https://github.com/nin-oh)
+- [ ] Exercice 4 est attribué à [nin-oh](https://github.com/nin-oh)
+- [ ] Exercice 5 est attribué à [nin-oh](https://github.com/nin-oh)
+- [ ] Exercice 6 est attribué à [MEDAFKARI](https://github.com/MEDAFKARI)
+- [ ] Exercice 7 est attribué à [MEDAFKARI](https://github.com/MEDAFKARI)
 
 #### Programmation orientée objet
 - [ ] Exercice 1
