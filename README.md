@@ -17,11 +17,11 @@ Pour obtenir un bonus, vous devez :
 ## Exercices
 ### Exercices du cours (Bonus +1)
 #### Conditions et boucles
-- [ ] Exercice 1
-- [ ] Exercice 2
-- [ ] Exercice 3
-- [ ] Exercice 4
-- [ ] Exercice 5
+- [ ] Exercice 1 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
+- [ ] Exercice 2 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
+- [ ] Exercice 3 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
+- [ ] Exercice 4 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
+- [ ] Exercice 5 est attribué à [Yassinedv](https://github.com/Yassinedv)
 - [ ] Exercice 6
 - [ ] Exercice 7
 - [ ] Exercice 8
@@ -37,7 +37,7 @@ Pour obtenir un bonus, vous devez :
 
 #### Programmation orientée objet
 - [ ] Exercice 1
-- [ ] Exercice 2
+- [ ] Exercice 2 est attribué à [aya2021-web](https://github.com/aya2021-web)
 - [ ] Exercice 3
 
 #### Programmation modulaire
