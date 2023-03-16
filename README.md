@@ -36,7 +36,7 @@ Pour obtenir un bonus, vous devez :
 - [ ] Exercice 7 est attribué à [MEDAFKARI](https://github.com/MEDAFKARI)
 
 #### Programmation orientée objet
-- [ ] Exercice 1
+- [ ] Exercice 1 est attribué à [ayoubGIT29](https://github.com/ayoubGIT29)
 - [ ] Exercice 2 est attribué à [aya2021-web](https://github.com/aya2021-web)
 - [ ] Exercice 3
 
@@ -46,8 +46,8 @@ Pour obtenir un bonus, vous devez :
 - [ ] Exercice 3
 
 ### Exercices supplémentaires (Bonus +1.5)
-- [ ] Exercice 1
-- [ ] Exercice 2
+- [ ] Exercice 1 est attribué à [E-Chams](https://github.com/E-Chams)
+- [ ] Exercice 2 est attribué à [maybeidkwhoami](https://github.com/maybeidkwhoami)
 - [ ] Exercice 3 est attribué à [MohammedEnniouar](https://github.com/MohammedEnniouar)
 - [ ] Exercice 4
 - [ ] Exercice 5
@@ -55,11 +55,11 @@ Pour obtenir un bonus, vous devez :
 - [ ] Exercice 7
 - [ ] Exercice 8
 - [ ] Exercice 9
-- [ ] Exercice 10
+- [ ] Exercice 10 est attribué à [nin-oh](https://github.com/nin-oh)
 - [ ] Exercice 11
 - [ ] Exercice 12
 - [ ] Exercice 13
-- [ ] Exercice 14
+- [ ] Exercice 14 est attribué à [xyoub](https://github.com/xyoub)
 - [ ] Exercice 15
 - [ ] Exercice 16
 - [ ] Exercice 17
