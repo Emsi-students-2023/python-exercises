@@ -22,9 +22,9 @@ Pour obtenir un bonus, vous devez :
 - [ ] Exercice 3 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
 - [ ] Exercice 4 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
 - [ ] Exercice 5 est attribué à [Yassinedv](https://github.com/Yassinedv)
-- [ ] Exercice 6
-- [ ] Exercice 7
-- [ ] Exercice 8
+- [ ] Exercice 6 est attribué à [aymenebd](https://github.com/aymenebd)
+- [ ] Exercice 7 est attribué à [taha-hachidi](https://github.com/taha-hachidi)
+- [ ] Exercice 8  est attribué à [arim01](https://github.com/arim01)
 
 #### Fonctions
 - [ ] Exercice 1 est attribué à [nin-oh](https://github.com/nin-oh)
@@ -50,7 +50,7 @@ Pour obtenir un bonus, vous devez :
 - [ ] Exercice 2 est attribué à [maybeidkwhoami](https://github.com/maybeidkwhoami)
 - [ ] Exercice 3 est attribué à [MohammedEnniouar](https://github.com/MohammedEnniouar)
 - [ ] Exercice 4
-- [ ] Exercice 5
+- [ ] Exercice 5 est attribué à [MINAD0](https://github.com/MINAD0)
 - [ ] Exercice 6
 - [ ] Exercice 7
 - [ ] Exercice 8
