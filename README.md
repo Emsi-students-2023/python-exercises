@@ -38,12 +38,12 @@ Pour obtenir un bonus, vous devez :
 #### Programmation orientée objet
 - [ ] Exercice 1 est attribué à [ayoubGIT29](https://github.com/ayoubGIT29)
 - [ ] Exercice 2 est attribué à [aya2021-web](https://github.com/aya2021-web)
-- [ ] Exercice 3
+- [ ] Exercice 3 est attribué à [clownvar](https://github.com/clownvar)
 
 #### Programmation modulaire
-- [ ] Exercice 1
-- [ ] Exercice 2
-- [ ] Exercice 3
+- [ ] Exercice 1 est attribué à [Rento11](https://github.com/Rento11)
+- [ ] Exercice 2 est attribué à [MohammedEnniouar](https://github.com/MohammedEnniouar)
+- [ ] Exercice 3 est attribué à [xyoub](https://github.com/xyoub)
 
 ### Exercices supplémentaires (Bonus +1.5)
 - [ ] Exercice 1 est attribué à [E-Chams](https://github.com/E-Chams)
