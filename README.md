@@ -49,7 +49,7 @@ Pour obtenir un bonus, vous devez :
 - [ ] Exercice 1 est attribué à [E-Chams](https://github.com/E-Chams)
 - [ ] Exercice 2 est attribué à [maybeidkwhoami](https://github.com/maybeidkwhoami)
 - [ ] Exercice 3 est attribué à [MohammedEnniouar](https://github.com/MohammedEnniouar)
-- [ ] Exercice 4
+- [ ] Exercice 4 est attribué à [elmediounimohammed](https://github.com/elmediounimohammed)
 - [ ] Exercice 5 est attribué à [MINAD0](https://github.com/MINAD0)
 - [ ] Exercice 6
 - [ ] Exercice 7
@@ -60,11 +60,11 @@ Pour obtenir un bonus, vous devez :
 - [ ] Exercice 12
 - [ ] Exercice 13
 - [ ] Exercice 14 est attribué à [xyoub](https://github.com/xyoub)
-- [ ] Exercice 15
-- [ ] Exercice 16
+- [ ] Exercice 15 est attribué à [BOUMMISSESofia](https://github.com/BOUMMISSESofia)
+- [ ] Exercice 16 est attribué à [BOUMMISSESofia](https://github.com/BOUMMISSESofia)
 - [ ] Exercice 17
 - [ ] Exercice 18
-- [ ] Exercice 19
+- [ ] Exercice 19 est attribué à [IlyassMouani](https://github.com/IlyassMouani)
 - [ ] Exercice 20
 - [ ] Exercice 21
 - [ ] Exercice 22
