@@ -51,22 +51,22 @@ Pour obtenir un bonus, vous devez :
 - [ ] Exercice 3 est attribué à [MohammedEnniouar](https://github.com/MohammedEnniouar)
 - [ ] Exercice 4 est attribué à [elmediounimohammed](https://github.com/elmediounimohammed)
 - [ ] Exercice 5 est attribué à [MINAD0](https://github.com/MINAD0)
-- [ ] Exercice 6
-- [ ] Exercice 7
-- [ ] Exercice 8
+- [ ] Exercice 6 est attribué à [aidir17](https://github.com/aidir17)
+- [ ] Exercice 7 est attribué à [taha-hachidi](https://github.com/taha-hachidi)
+- [ ] Exercice 8 est attribué à [Aymene-Baaddi](https://github.com/Aymene-Baaddi)
 - [ ] Exercice 9
 - [ ] Exercice 10 est attribué à [nin-oh](https://github.com/nin-oh)
-- [ ] Exercice 11
-- [ ] Exercice 12
+- [ ] Exercice 11 est attribué à [Chaimaa2001](https://github.com/Chaimaa2001)
+- [ ] Exercice 12 est attribué à [SIDKUMAMINE](https://github.com/SIDKUMAMINE)
 - [ ] Exercice 13
 - [ ] Exercice 14 est attribué à [xyoub](https://github.com/xyoub)
 - [ ] Exercice 15 est attribué à [BOUMMISSESofia](https://github.com/BOUMMISSESofia)
 - [ ] Exercice 16 est attribué à [BOUMMISSESofia](https://github.com/BOUMMISSESofia)
-- [ ] Exercice 17
+- [ ] Exercice 17 est attribué à [coffeeaddictt](https://github.com/coffeeaddictt)
 - [ ] Exercice 18
 - [ ] Exercice 19 est attribué à [IlyassMouani](https://github.com/IlyassMouani)
-- [ ] Exercice 20
-- [ ] Exercice 21
-- [ ] Exercice 22
-- [ ] Exercice 23
-- [ ] Exercice 24
+- [ ] Exercice 20 est attribué à [hamzaennaji](https://github.com/hamzaennaji)
+- [ ] Exercice 21 est attribué à [TAKALLAHMARWA](https://github.com/TAKALLAHMARWA)
+- [ ] Exercice 22 est attribué à [hamzaennaji](https://github.com/hamzaennaji)
+- [ ] Exercice 23 est attribué à [rlroudayna](https://github.com/rlroudayna)
+- [ ] Exercice 24 est attribué à [alpes1](https://github.com/alpes1)
