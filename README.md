@@ -38,7 +38,7 @@ Pour obtenir un bonus, vous devez :
 #### Programmation orientée objet
 - [ ] Exercice 1 est attribué à [ayoubGIT29](https://github.com/ayoubGIT29)
 - [ ] Exercice 2 est attribué à [aya2021-web](https://github.com/aya2021-web)
-- [ ] Exercice 3 est attribué à [clownvar](https://github.com/clownvar)
+- [ ] Exercice 3 est attribué à [Idriss975](https://github.com/Idriss975)
 
 #### Programmation modulaire
 - [ ] Exercice 1 est attribué à [Rento11](https://github.com/Rento11)
