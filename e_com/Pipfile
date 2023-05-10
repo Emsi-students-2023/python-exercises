@@ -1,5 +1,0 @@
-[packages]
-django = "*"
-
-[dev-packages]
-autopep8 = "*"
