@@ -1,0 +1,50 @@
+-->exercice 9 
+def get_alphabet():
+    alphabet = ""
+    for code in range(97, 123):
+        alphabet += chr(code)
+    return alphabet
+
+def is_pangram(sentence):
+    alphabet = get_alphabet()
+    for letter in alphabet:
+        if letter not in sentence.lower():
+            return False
+    return True
+
+par exemple 
+sentence = "Voyez ce koala fou qui mange des journaux et des photos dans un bungalow"
+print(is_pangram(sentence))  # Output: True
+---------------------------------------------------------------------------------
+-->exercice 13 
+
+import datetime
+
+def get_date_from_ordinal(year, ordinal_day):
+    date = datetime.datetime(year, 1, 1) + datetime.timedelta(days=ordinal_day - 1)
+    day = date.day
+    month = date.month
+    return day, month
+-----------------------------------------------------------------------------------
+-->exercice 18
+def convert_base(number, from_base, to_base):
+    try:
+        decimal_number = int(number, from_base)
+        if to_base < 2 or to_base > 16:
+            raise ValueError("La base de conversion doit être comprise entre 2 et 16.")
+        converted_number = format(decimal_number, f"0{to_base}X")
+        return converted_number
+    except ValueError as e:
+        print(f"Erreur : {e}")
+        exit(1)
+
+def main():
+    number = input("Entrez le nombre à convertir : ")
+    from_base = int(input("Entrez la base du nombre d'entrée : "))
+    to_base = int(input("Entrez la base de conversion : "))
+
+    converted_number = convert_base(number, from_base, to_base)
+    print("Résultat :", converted_number)
+
+if __name__ == "__main__":
+    main()
