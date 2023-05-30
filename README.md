@@ -17,59 +17,59 @@ Pour obtenir un bonus, vous devez :
 ## Exercices
 ### Exercices du cours (Bonus +1)
 #### Conditions et boucles
-- [ ] Exercice 1 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
-- [ ] Exercice 2 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
-- [ ] Exercice 3 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
-- [ ] Exercice 4 est attribué à [ibtissamdaraaoui](https://github.com/ibtissamdaraaoui)
-- [ ] Exercice 5 est attribué à [Yassinedv](https://github.com/Yassinedv)
-- [ ] Exercice 6 est attribué à [aymenebd](https://github.com/aymenebd)
-- [ ] Exercice 7 est attribué à [taha-hachidi](https://github.com/taha-hachidi)
-- [ ] Exercice 8  est attribué à [arim01](https://github.com/arim01)
+- [x] Exercice 1
+- [x] Exercice 2
+- [x] Exercice 3
+- [x] Exercice 4
+- [x] Exercice 5
+- [x] Exercice 6
+- [x] Exercice 7
+- [ ] Exercice 8 est attribué à [arim01](https://github.com/arim01)
 
 #### Fonctions
-- [ ] Exercice 1 est attribué à [nin-oh](https://github.com/nin-oh)
-- [ ] Exercice 2 est attribué à [nin-oh](https://github.com/nin-oh)
-- [ ] Exercice 3 est attribué à [nin-oh](https://github.com/nin-oh)
-- [ ] Exercice 4 est attribué à [nin-oh](https://github.com/nin-oh)
-- [ ] Exercice 5 est attribué à [nin-oh](https://github.com/nin-oh)
-- [ ] Exercice 6 est attribué à [MEDAFKARI](https://github.com/MEDAFKARI)
-- [ ] Exercice 7 est attribué à [MEDAFKARI](https://github.com/MEDAFKARI)
+- [x] Exercice 1
+- [x] Exercice 2
+- [x] Exercice 3
+- [x] Exercice 4
+- [x] Exercice 5
+- [x] Exercice 6
+- [x] Exercice 7
 
 #### Programmation orientée objet
-- [ ] Exercice 1 est attribué à [ayoubGIT29](https://github.com/ayoubGIT29)
-- [ ] Exercice 2 est attribué à [aya2021-web](https://github.com/aya2021-web)
-- [ ] Exercice 3 est attribué à [clownvar](https://github.com/clownvar)
+- [x] Exercice 1
+- [x] Exercice 2
+- [x] Exercice 3
 
 #### Programmation modulaire
-- [ ] Exercice 1 est attribué à [Rento11](https://github.com/Rento11)
-- [ ] Exercice 2 est attribué à [MohammedEnniouar](https://github.com/MohammedEnniouar)
-- [ ] Exercice 3 est attribué à [xyoub](https://github.com/xyoub)
+- [x] Exercice 1
+- [x] Exercice 2
+- [x] Exercice 3
 
 ### Exercices supplémentaires (Bonus +1.5)
-- [ ] Exercice 1 est attribué à [E-Chams](https://github.com/E-Chams)
-- [ ] Exercice 2 est attribué à [maybeidkwhoami](https://github.com/maybeidkwhoami)
-- [ ] Exercice 3 est attribué à [MohammedEnniouar](https://github.com/MohammedEnniouar)
-- [ ] Exercice 4 est attribué à [elmediounimohammed](https://github.com/elmediounimohammed)
-- [ ] Exercice 5 est attribué à [MINAD0](https://github.com/MINAD0)
-- [ ] Exercice 6 est attribué à [aidir17](https://github.com/aidir17)
-- [ ] Exercice 7 est attribué à [taha-hachidi](https://github.com/taha-hachidi)
-- [ ] Exercice 8 est attribué à [Aymene-Baaddi](https://github.com/Aymene-Baaddi)
-- [ ] Exercice 9
-- [ ] Exercice 10 est attribué à [nin-oh](https://github.com/nin-oh)
-- [ ] Exercice 11 est attribué à [Chaimaa2001](https://github.com/Chaimaa2001)
+- [x] Exercice 1
+- [x] Exercice 2
+- [x] Exercice 3
+- [x] Exercice 4
+- [x] Exercice 5
+- [x] Exercice 6
+- [x] Exercice 7
+- [x] Exercice 8
+- [x] Exercice 9
+- [x] Exercice 10
+- [x] Exercice 11
 - [ ] Exercice 12 est attribué à [SIDKUMAMINE](https://github.com/SIDKUMAMINE)
-- [ ] Exercice 13
-- [ ] Exercice 14 est attribué à [xyoub](https://github.com/xyoub)
-- [ ] Exercice 15 est attribué à [BOUMMISSESofia](https://github.com/BOUMMISSESofia)
-- [ ] Exercice 16 est attribué à [BOUMMISSESofia](https://github.com/BOUMMISSESofia)
-- [ ] Exercice 17 est attribué à [coffeeaddictt](https://github.com/coffeeaddictt)
-- [ ] Exercice 18
-- [ ] Exercice 19 est attribué à [IlyassMouani](https://github.com/IlyassMouani)
-- [ ] Exercice 20 est attribué à [hamzaennaji](https://github.com/hamzaennaji)
-- [ ] Exercice 21 est attribué à [TAKALLAHMARWA](https://github.com/TAKALLAHMARWA)
-- [ ] Exercice 22 est attribué à [hamzaennaji](https://github.com/hamzaennaji)
+- [x] Exercice 13
+- [x] Exercice 14
+- [x] Exercice 15
+- [x] Exercice 16
+- [x] Exercice 17
+- [x] Exercice 18
+- [x] Exercice 19
+- [x] Exercice 20
+- [x] Exercice 21
+- [x] Exercice 22
 - [ ] Exercice 23 est attribué à [rlroudayna](https://github.com/rlroudayna)
-- [ ] Exercice 24 est attribué à [alpes1](https://github.com/alpes1)
+- [x] Exercice 24
 
 ## PFA
 ### Présentation
